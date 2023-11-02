@@ -36,3 +36,19 @@ The following image shows the application's registered service worker:
 The following image shows the application's IndexedDB storage:
 
 ![Demonstration of the finished Module 19 Challenge with a IndexedDB storage named 'jate' in the browser.](./Assets/03-idb-storage.png)
+
+## License
+
+This project license is under the [MIT](https://opensource.org/licenses/MIT)
+
+## Contribute
+
+Git fork. Pull request
+
+## Resources
+
+* [heroku](https://dashboard.heroku.com/)
+* [Express.js](https://www.npmjs.com/package/concurrently)
+* [concurrently](https://www.npmjs.com/package/concurrently)
+* [Service Worker API](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API)
+* [webpack](https://webpack.js.org/)
