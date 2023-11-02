@@ -17,7 +17,7 @@ SO THAT I can reliably retrieve them for later use
 
 ## Preview
 
-You will deploy this full-stack application to Heroku using the [Heroku Deployment Guide on The Full-Stack Blog](https://coding-boot-camp.github.io/full-stack/heroku/heroku-deployment-guide).
+Application is deploy to `Heroku` : [>Click Here< ](https://text-editor-with-pwa-f86237236be0.herokuapp.com/)to try it out.
 
 **Important**: Make sure your submission includes the `.npmrc` file in this starter code.  This will ensure your application will deploy properly to heroku.
 
